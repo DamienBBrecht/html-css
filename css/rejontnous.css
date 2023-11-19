@@ -1,0 +1,45 @@
+body{
+
+    background: url(../img/fondrejoindre.png);
+    background-repeat: no-repeat;
+}
+
+
+.image1{
+    width: 10%;
+ }
+ .image2{
+  
+     width: 10%;
+ }
+ footer{
+    background-color: white;
+   height: 160px;
+}
+header{
+   
+    background-color: white;
+    width: 110vw;
+}
+nav{
+    background-color: rgba(255, 255, 255, 0.679);
+    width: 30%;
+    margin: 0 auto;
+    min-height: 5vh;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+main{
+    background-color: rgba(255, 255, 255, 0.653);
+    border-radius: 5px;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    display: flex;
+    width: 48vw;
+    margin-left: 25%;
+}
+.discours{
+    text-align: center;
+    display: flex;
+    width: 48vw;
+}

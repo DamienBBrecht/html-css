@@ -1,0 +1,46 @@
+body{
+
+    background: url(../img/fondactialité.png);
+    background-repeat: no-repeat;
+}
+
+
+.image1{
+    width: 10%;
+ }
+ .image2{
+  
+     width: 10%;
+ }
+ footer{
+    background-color: white;
+   height: 160px;
+}
+header{
+   
+    background-color: white;
+    width: 110vw;
+}
+.actuecris{
+    display: flex;
+    width: 40vw;
+}
+.image3{
+    display: flex;
+    height: 40vh;
+}
+nav{
+    background-color: rgba(255, 255, 255, 0.773);
+    margin: 0 auto;
+    min-width: 40vh;
+    border-radius: 20px;
+    margin-right: 55%;
+}
+section{
+    background-color: rgba(255, 255, 255, 0.733);
+    display: flex;
+    width: 45vw;
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-bottom: 2%;
+}
